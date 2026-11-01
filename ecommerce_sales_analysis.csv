@@ -1,0 +1,151 @@
+Order_ID,Customer_ID,Purchase_Date,Product_Category,Customer_Segment,Region,Order_Value_USD
+ORD0001,C140,2026-01-29,Electronics,New,East,232.0
+ORD0002,C114,2026-02-05,Electronics,VIP,North,802.5
+ORD0003,C127,2026-01-09,Electronics,Returning,North,225.0
+ORD0004,C114,2026-05-10,Electronics,Returning,South,336.0
+ORD0005,C144,2026-05-20,Sports,New,South,134.0
+ORD0006,C137,2026-03-13,Electronics,New,South,348.0
+ORD0007,C127,2026-03-29,Home & Garden,New,South,75.0
+ORD0008,C148,2026-03-28,Electronics,VIP,North,667.5
+ORD0009,C106,2026-04-02,Home & Garden,Returning,East,31.0
+ORD0010,C146,2026-04-28,Electronics,Returning,West,190.0
+ORD0011,C135,2026-03-17,Home & Garden,New,South,200.0
+ORD0012,C104,2026-01-12,Apparel,VIP,East,100.0
+ORD0013,C114,2026-01-26,Sports,VIP,East,340.0
+ORD0014,C140,2026-04-04,Apparel,New,East,110.0
+ORD0015,C113,2026-06-21,Home & Garden,New,North,175.0
+ORD0016,C140,2026-02-13,Apparel,New,South,138.0
+ORD0017,C124,2026-03-11,Apparel,New,East,34.0
+ORD0018,C114,2026-01-09,Home & Garden,Returning,West,88.0
+ORD0019,C104,2026-02-24,Home & Garden,Returning,South,187.0
+ORD0020,C131,2026-04-12,Sports,New,South,87.0
+ORD0021,C108,2026-03-05,Home & Garden,Returning,West,169.0
+ORD0022,C125,2026-04-03,Apparel,New,South,150.0
+ORD0023,C131,2026-01-24,Electronics,New,North,209.0
+ORD0024,C140,2026-02-10,Sports,New,North,118.0
+ORD0025,C124,2026-06-02,Sports,Returning,East,161.0
+ORD0026,C100,2026-06-24,Electronics,Returning,East,334.0
+ORD0027,C121,2026-01-29,Home & Garden,New,West,60.0
+ORD0028,C129,2026-01-01,Home & Garden,Returning,South,149.0
+ORD0029,C106,2026-06-10,Home & Garden,Returning,South,59.0
+ORD0030,C123,2026-02-11,Electronics,New,East,295.0
+ORD0031,C101,2026-01-29,Home & Garden,Returning,East,81.0
+ORD0032,C103,2026-03-03,Electronics,New,North,294.0
+ORD0033,C104,2026-05-17,Apparel,New,South,188.0
+ORD0034,C130,2026-05-21,Apparel,VIP,East,387.5
+ORD0035,C138,2026-04-19,Apparel,VIP,South,247.5
+ORD0036,C125,2026-06-21,Home & Garden,VIP,West,380.0
+ORD0037,C128,2026-01-31,Apparel,New,South,36.0
+ORD0038,C121,2026-01-06,Apparel,New,South,21.0
+ORD0039,C104,2026-06-11,Electronics,Returning,South,187.0
+ORD0040,C102,2026-03-26,Electronics,Returning,South,241.0
+ORD0041,C142,2026-05-05,Apparel,New,South,166.0
+ORD0042,C136,2026-05-02,Apparel,Returning,West,124.0
+ORD0043,C112,2026-01-25,Electronics,New,West,260.0
+ORD0044,C127,2026-04-16,Sports,VIP,North,480.0
+ORD0045,C141,2026-06-15,Electronics,New,North,273.0
+ORD0046,C146,2026-03-28,Electronics,Returning,South,219.0
+ORD0047,C112,2026-05-18,Sports,New,South,128.0
+ORD0048,C111,2026-03-13,Sports,Returning,South,39.0
+ORD0049,C128,2026-05-21,Electronics,Returning,North,336.0
+ORD0050,C134,2026-01-04,Electronics,New,South,212.0
+ORD0051,C126,2026-05-05,Sports,VIP,South,305.0
+ORD0052,C103,2026-02-12,Sports,Returning,North,119.0
+ORD0053,C116,2026-04-27,Home & Garden,VIP,West,495.0
+ORD0054,C146,2026-05-23,Sports,VIP,South,170.0
+ORD0055,C118,2026-02-25,Electronics,Returning,North,250.0
+ORD0056,C103,2026-01-13,Sports,VIP,South,85.0
+ORD0057,C132,2026-01-21,Apparel,New,North,172.0
+ORD0058,C104,2026-06-22,Apparel,New,West,50.0
+ORD0059,C136,2026-03-05,Electronics,New,North,277.0
+ORD0060,C142,2026-05-30,Home & Garden,New,East,72.0
+ORD0061,C142,2026-03-22,Apparel,New,East,121.0
+ORD0062,C108,2026-06-21,Home & Garden,New,West,100.0
+ORD0063,C148,2026-01-19,Electronics,VIP,West,822.5
+ORD0064,C136,2026-01-26,Electronics,New,South,299.0
+ORD0065,C116,2026-02-03,Home & Garden,New,North,82.0
+ORD0066,C123,2026-03-14,Apparel,Returning,West,159.0
+ORD0067,C145,2026-03-19,Electronics,New,East,339.0
+ORD0068,C106,2026-02-04,Home & Garden,VIP,North,117.5
+ORD0069,C147,2026-05-22,Apparel,New,East,92.0
+ORD0070,C138,2026-02-23,Home & Garden,VIP,South,487.5
+ORD0071,C140,2026-03-09,Sports,Returning,East,33.0
+ORD0072,C105,2026-06-12,Sports,New,East,31.0
+ORD0073,C100,2026-03-27,Apparel,New,East,61.0
+ORD0074,C147,2026-04-24,Sports,VIP,North,120.0
+ORD0075,C104,2026-06-26,Apparel,Returning,North,114.0
+ORD0076,C137,2026-05-22,Apparel,Returning,West,52.0
+ORD0077,C102,2026-03-20,Home & Garden,Returning,North,111.0
+ORD0078,C113,2026-06-24,Apparel,New,North,110.0
+ORD0079,C149,2026-05-24,Sports,New,South,80.0
+ORD0080,C110,2026-02-15,Sports,New,North,65.0
+ORD0081,C147,2026-03-27,Sports,VIP,South,220.0
+ORD0082,C110,2026-06-29,Electronics,Returning,West,179.0
+ORD0083,C130,2026-02-26,Apparel,New,West,109.0
+ORD0084,C119,2026-02-28,Apparel,New,North,188.0
+ORD0085,C112,2026-04-13,Home & Garden,New,East,37.0
+ORD0086,C149,2026-03-13,Home & Garden,New,West,193.0
+ORD0087,C134,2026-03-26,Electronics,Returning,North,236.0
+ORD0088,C111,2026-05-29,Home & Garden,Returning,North,47.0
+ORD0089,C138,2026-04-22,Home & Garden,VIP,East,327.5
+ORD0090,C138,2026-05-11,Electronics,Returning,West,317.0
+ORD0091,C112,2026-03-07,Electronics,New,West,170.0
+ORD0092,C133,2026-05-18,Apparel,Returning,East,130.0
+ORD0093,C104,2026-06-20,Home & Garden,Returning,East,189.0
+ORD0094,C107,2026-03-18,Home & Garden,Returning,West,103.0
+ORD0095,C125,2026-06-28,Home & Garden,Returning,South,69.0
+ORD0096,C126,2026-06-20,Sports,Returning,South,177.0
+ORD0097,C136,2026-03-19,Sports,Returning,North,97.0
+ORD0098,C118,2026-02-23,Sports,Returning,East,139.0
+ORD0099,C128,2026-04-24,Apparel,New,West,63.0
+ORD0100,C142,2026-01-22,Home & Garden,New,East,43.0
+ORD0101,C148,2026-03-02,Home & Garden,New,South,70.0
+ORD0102,C109,2026-01-07,Electronics,Returning,South,291.0
+ORD0103,C139,2026-01-19,Sports,New,West,181.0
+ORD0104,C136,2026-02-19,Sports,Returning,West,122.0
+ORD0105,C115,2026-02-07,Electronics,VIP,North,695.0
+ORD0106,C114,2026-02-15,Sports,New,North,162.0
+ORD0107,C115,2026-02-01,Sports,Returning,South,138.0
+ORD0108,C142,2026-05-16,Home & Garden,Returning,West,176.0
+ORD0109,C146,2026-05-10,Sports,New,West,60.0
+ORD0110,C147,2026-05-02,Sports,New,East,83.0
+ORD0111,C140,2026-03-12,Sports,New,South,90.0
+ORD0112,C128,2026-01-20,Home & Garden,New,South,89.0
+ORD0113,C121,2026-03-23,Electronics,VIP,South,520.0
+ORD0114,C114,2026-04-09,Apparel,VIP,South,90.0
+ORD0115,C126,2026-04-15,Home & Garden,Returning,West,126.0
+ORD0116,C103,2026-02-22,Sports,VIP,West,422.5
+ORD0117,C144,2026-01-06,Sports,VIP,West,52.5
+ORD0118,C122,2026-03-18,Sports,New,West,157.0
+ORD0119,C147,2026-05-20,Apparel,VIP,West,190.0
+ORD0120,C117,2026-04-22,Sports,Returning,North,119.0
+ORD0121,C121,2026-06-21,Sports,VIP,South,347.5
+ORD0122,C108,2026-06-09,Electronics,VIP,West,802.5
+ORD0123,C136,2026-06-19,Electronics,New,North,334.0
+ORD0124,C127,2026-02-04,Sports,New,South,32.0
+ORD0125,C116,2026-04-08,Home & Garden,New,South,136.0
+ORD0126,C120,2026-03-28,Sports,Returning,East,127.0
+ORD0127,C116,2026-01-21,Sports,VIP,North,395.0
+ORD0128,C103,2026-03-31,Apparel,VIP,North,465.0
+ORD0129,C102,2026-01-08,Apparel,New,South,25.0
+ORD0130,C139,2026-02-09,Apparel,Returning,South,141.0
+ORD0131,C142,2026-01-30,Apparel,Returning,West,199.0
+ORD0132,C116,2026-04-05,Apparel,New,North,61.0
+ORD0133,C119,2026-01-28,Electronics,New,East,317.0
+ORD0134,C143,2026-04-07,Sports,New,South,39.0
+ORD0135,C137,2026-06-26,Apparel,VIP,North,495.0
+ORD0136,C149,2026-03-19,Electronics,New,North,258.0
+ORD0137,C134,2026-04-20,Home & Garden,Returning,North,149.0
+ORD0138,C141,2026-03-29,Electronics,Returning,West,295.0
+ORD0139,C106,2026-04-21,Home & Garden,New,West,59.0
+ORD0140,C127,2026-02-15,Home & Garden,VIP,West,347.5
+ORD0141,C127,2026-06-01,Home & Garden,VIP,East,205.0
+ORD0142,C105,2026-03-13,Sports,New,South,138.0
+ORD0143,C136,2026-06-06,Sports,Returning,East,27.0
+ORD0144,C131,2026-03-25,Apparel,New,West,74.0
+ORD0145,C122,2026-03-08,Home & Garden,New,East,172.0
+ORD0146,C144,2026-03-12,Electronics,New,South,191.0
+ORD0147,C115,2026-04-15,Sports,Returning,South,196.0
+ORD0148,C130,2026-06-15,Sports,Returning,West,24.0
+ORD0149,C105,2026-03-17,Apparel,New,West,197.0
+ORD0150,C115,2026-03-20,Home & Garden,New,West,161.0
